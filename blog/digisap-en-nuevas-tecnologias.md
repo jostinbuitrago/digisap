@@ -1,5 +1,5 @@
 ---
-path: digisapteam
+path: blog/hello-world
 date: 2020-06-01T21:23:48.959Z
 title: "Digisap en nuevas tecnologias "
 ---
