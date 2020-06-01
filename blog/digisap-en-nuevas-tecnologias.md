@@ -5,4 +5,4 @@ title: "Digisap en nuevas tecnologias "
 ---
 Página hecha en **gatsby JS, Github y Netlify** &#128515;
 
-![](/assets/2020-04-30.png)
+![Equipo digisap](/assets/2020-04-30.png)
